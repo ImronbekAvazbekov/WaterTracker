@@ -39,4 +39,5 @@ Demo / learning project
   <img src="screenshots/Screenshot_20260118_155634_Water Tracker.jpg" width="250" />
   <img src="screenshots/Screenshot_20260118_155640_Water Tracker.jpg" width="250" />
   <img src="screenshots/Screenshot_20260118_155629_Water Tracker.jpg" width="250" />
+  <img src="screenshots/water_tracker.gif" width="250" />
 </p>
